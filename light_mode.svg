@@ -43,7 +43,7 @@ text, tspan {white-space: pre;}
 <text x="332" y="30" fill="#24292f">
 <tspan x="332" y="30">borregogfuel@github</tspan> -———————————————————————————————————————————-—-
 <tspan x="332" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows, Linux, macOS (soon)</tspan>
-<tspan x="332" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 11 months, 11 days</tspan>
+<tspan x="332" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> .................... </tspan><tspan class="value" id="age_data">19 years, 11 months, 11 days</tspan>
 <tspan x="332" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">CS @ Tec de Monterrey</tspan>
 <tspan x="332" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">SWE @ Servo Consultores</tspan>
 <tspan x="332" y="130" class="cc">. </tspan>
